@@ -2,12 +2,10 @@ import React from "react";
 import { Container } from "./Styles/App";
 import "./GlobalStyles.css";
 
-function App() {
+export function App() {
   return (
     <Container>
-      <h1>Hello World!</h1>
+      <h1>Projeto em desenvolvimento</h1>
     </Container>
   );
 }
-
-export default App;
